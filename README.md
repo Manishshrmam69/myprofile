@@ -1,19 +1,26 @@
-# Manish Sharma's Portfolio
 
-Welcome to my personal portfolio website! This website showcases my skills, projects, and contact information.
+## 🌟 Projects Highlighted
 
-## 🚀 Project Link and Live Demo
+1. **ChatBot:** Node.js, JavaScript, OpenAI - AI-powered conversational bot.
+2. **Weather App:** JavaScript, API, CSS - Real-time weather updates.
+3. **Spotify Clone:** React, Node.js, API - Music streaming platform.
+4. **Health Management System:** Java, JDBC, MySQL - Patient and appointment management.
 
-- **[myprofile-ebon.vercel.app](https://myprofile-ebon.vercel.app)**
+## 📞 Contact
 
-## 📜 Project Overview
+- **Phone:** +91 7378163269
+- **Email:** [msharma.dev04@gmail.com](mailto:msharma.dev04@gmail.com)
+- **Location:** Bherunda, Nagaur, Rajasthan, India
 
-This is a responsive and dynamic portfolio website built using HTML, CSS, and JavaScript. It highlights my expertise as a Junior Web Developer and my projects in full-stack development.
+## 🌐 Social Links
 
-## 🛠️ Features
+-  [LinkedIn](https://www.linkedin.com/in/manish-sharma-3065882ab)
+- [GitHub](https://github.com/Manishshrmam69)
 
-- **Hero Section:** Introduction and quick navigation to the portfolio.
-- **Skills Section:** Display of technical skills in backend, frontend, databases, and other tools.
-- **Projects Section:** Showcases recent projects with descriptions and technologies used.
-- **About Section:** Personal introduction and career goals.
-- **Contact Section:** Provides ph
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+**Thank you for visiting my portfolio! Feel free to connect with me for collaboration or job opportunities.**
