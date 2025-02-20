@@ -23,4 +23,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
+## 🚀 Project Link and Live Demo
+ 🌐 **Live Demo:** [myprofile-ebon.vercel.app](https://myprofile-ebon.vercel.app)  
 **Thank you for visiting my portfolio! Feel free to connect with me for collaboration or job opportunities.**
